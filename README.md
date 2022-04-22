@@ -19,4 +19,8 @@ The goal is to be visually appealing but not bogged down with unnecesary distrac
 
 ## Future Plans:
 
-Add projects as they are completed (namely Architectural Historian portfolio).  Ease into the "About Me" more.  Liven up the "Projects" section.
+- Add projects as they are completed (namely Architectural Historian portfolio)
+- Ease into the "About Me" more
+- Liven up the "Projects" section
+- Remove unneeded pages
+- Remove commented code
