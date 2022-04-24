@@ -2427,10 +2427,15 @@ input, select, textarea {
 	}
 
 /* Resume */
-#resume {
+.resume {
 	width: 100%;
 	height: 100vh;
+	outline: solid black;
+	margin-top: 1em;
+	text-decoration: none;
 }
+
+
 
 /* Normal */
 
@@ -3101,4 +3106,9 @@ input, select, textarea {
 				margin-bottom: 1em;
 			}
 
+	}
+
+	#resume-link{
+		text-decoration: none;
+		color: black;
 	}
